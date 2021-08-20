@@ -6,5 +6,6 @@ This is a signal processing project done on Octave. Here user can select any son
 4) Low Pass Filter Effect 
 5) Pitch Correction Effect
 
-The main project file is the projectpage1.m
 All the lines listed in the packages.txt file must be run before running the main project file.
+The main project file is the projectpage1.m.
+Upon clicking the Add Effects button the user can select from the different buttons assigned for the different effects.For the pitch correction an input is already selected and the output received is only for that particular input.
