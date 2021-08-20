@@ -7,4 +7,4 @@ This is a signal processing project done on Octave. Here user can select any son
 5) Pitch Correction Effect
 
 The main project file is the projectpage1.m
-All the lines listed in the packages file must be run before running the main project file.
+All the lines listed in the packages.txt file must be run before running the main project file.
