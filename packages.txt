@@ -1,0 +1,5 @@
+pkg install 'io-2.6.3.tar.gz';
+pkg load io;
+pkg load image;
+pkg load signal;
+
